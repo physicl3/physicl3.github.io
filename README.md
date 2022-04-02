@@ -1,3 +1,3 @@
-# physicl3.github.io
+# Physicl3
 Do you know Wordle?
 Physicle is same same but different.
